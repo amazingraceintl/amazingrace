@@ -29,7 +29,7 @@ public class Book {
     public String toString() {
         return "Book{" +
                 "id=" + id +
-                ", name='" + name + '\'' +
+                ", names='" + name + '\'' +
                 ", author='" + author + '\'' +
                 '}';
     }
